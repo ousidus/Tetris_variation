@@ -1,0 +1,60 @@
+        # Unity Generated Files
+        /[Ll]ibrary/
+        /[Tt]emp/
+        /[Oo]bj/
+        /[Bb]uild/
+        /[Bb]uilds/
+        /[Ll]ogs/
+        /[Mm]emoryCaptures/
+        /[Uu]serSettings/
+
+        # Asset Store Tools cache
+        /[Aa]ssets/AssetStoreTools*
+
+        # Visual Studio / Rider generated files
+        /[Ee]xportedObj/
+        .vs/
+        *.csproj
+        *.unityproj
+        *.sln
+        *.suo
+        *.tmp*
+        *.user
+        *.userprefs
+        *.pidb
+        *.booproj
+        *.svd
+        *.pdb
+        *.mdb
+        *.opendb
+        *.VC.db
+
+        # Unity3D generated meta files
+        *.pidb.meta
+        *.pdb.meta
+        *.mdb.meta
+
+        # Unity Memory Profiler output
+        *.mem
+
+        # Windows builds
+        *.exe
+        *.exe.meta
+        *_Data/
+
+        # Mac builds
+        *.app
+        *.app.meta
+
+        # Linux builds
+        *.x86*
+        *.x86_64*
+        *_Data/
+
+        # Crashlytics generated file
+        crashlytics-build.properties
+
+        # WebGL Build Output (add your specific output folder name if different)
+        WebGLBuild/ 
+        # Add /docs/ here too if using the /docs folder method for Pages later
+        /docs/
